@@ -4,9 +4,9 @@ CREATI-EDU es un proyecto de página web educativa que busca fortalecer el vínc
 
 
 
-Además, el sistema incorpora una funcionalidad para el 
+Además, el sistema incorpora una funcionalidad para el registro y seguimiento de cuotas de estudiantes que facilita la gestión administrativa. 
 
-registro y seguimiento de cuotas de estudiantes que facilita la gestión administrativa. El objetivo general es crear una herramienta integral que combine la difusión de contenidos institucionales con un sistema eficiente de administración de cuotas. A futuro, se proyecta la integración de un aula virtual con recursos digitales para enriquecer los procesos de enseñanza y aprendizaje.
+El objetivo general es crear una herramienta integral que combine la difusión de contenidos institucionales con un sistema eficiente de administración de cuotas. A futuro, se proyecta la integración de un aula virtual con recursos digitales para enriquecer los procesos de enseñanza y aprendizaje.
 
 
 
