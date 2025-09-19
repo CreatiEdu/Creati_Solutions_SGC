@@ -1,7 +1,10 @@
 CREATI-SOLUTION
 
-CREATI_SOLUTION es un proyecto de crear una página web donde se mostraran los servicios ofrecidos por la empresa como desarrollar aplicaciones digitales y páginas web a la sociedad.
-En la misma se adjutaran los curriculun de los integrantes para que el mundo vea los conocimientos del equipo y su experencia en el mercado laboral.
+Somos CreatiSolutions, un equipo de desarrolladores web apasionados por la tecnología y la innovación digital. Nos especializamos en crear sitios web modernos, responsivos y adaptados a las necesidades de cada cliente.
+
+Nuestro objetivo es ayudar a empresas, emprendedores y profesionales a tener presencia en internet, potenciando su marca con soluciones creativas y funcionales.
+
+Trabajamos con metodologías ágiles, asegurando un proceso colaborativo, rápido y orientado a resultados de calidad.
 
 Características Principales
 -Publicación de lo que la empresa desarrolla como aplicaciones digitales y páginas web.
@@ -53,9 +56,9 @@ Este proyecto fue desarrollado por:
 | Nombre | Rol | Contacto |
 |---|---|---|
 | Astrada Eric Matias | Developer | matiasastrada482@gmail.com |
-| Astrada Kevin | Developer | kevin.agustin.astrada@gmail.com |
+| Astrada Kevin | Scrum Master, Developer | kevin.agustin.astrada@gmail.com |
 | Fernandez Rubio Dolores | Developer | doloresfernandez21.df@gmail.com |
 | Fernandez Rubio Franco | Developer | francosimonfernandezrubio@gmail.com |
 | Gariglio Alejandro | Developer | alejandrogariglio1986@gmail.com |
-| Rodriguez Matias Valenzuela | Developer, Scrum Master | krloos97@gmail.com |
+| Rodriguez Matias Valenzuela | Developer | krloos97@gmail.com |
 
