@@ -8,7 +8,7 @@ Trabajamos con metodologías ágiles, asegurando un proceso colaborativo, rápid
 
 Características Principales
 -Publicación de lo que la empresa desarrolla como aplicaciones digitales y páginas web.
--Vender nuestros servicios como desarrolladores desarolladores.
+-Vender nuestros servicios como desarrolladores.
 -Solucionar problemas a futuras empresas potenciales que necesiten nuestro servicio.
 
 Tecnologías Utilizadas
