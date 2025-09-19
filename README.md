@@ -10,6 +10,7 @@ Características Principales
 
 Tecnologías Utilizadas
 
+*XAMPP es un paquete de software libre que instala un entorno de servidor web local multiplataforma.
 * Entornos de desarrollo: Wordpress y elementor.
 * Metodología de trabajo: Scrum, con la planificación de tareas en GitHub.
 
