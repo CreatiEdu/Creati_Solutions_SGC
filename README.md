@@ -56,7 +56,7 @@ Este proyecto fue desarrollado por:
 | Nombre | Rol | Contacto |
 |---|---|---|
 | Astrada Eric Matias | Developer | matiasastrada482@gmail.com |
-| Astrada Kevin | Scrum Master, Developer | kevin.agustin.astrada@gmail.com |
+| Astrada Agustin Kevin | Scrum Master, Developer | kevin.agustin.astrada@gmail.com |
 | Fernandez Rubio Dolores | Developer | doloresfernandez21.df@gmail.com |
 | Fernandez Rubio Franco | Developer | francosimonfernandezrubio@gmail.com |
 | Gariglio Alejandro | Developer | alejandrogariglio1986@gmail.com |
